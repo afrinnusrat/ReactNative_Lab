@@ -1,5 +1,20 @@
 # PervasiveComputing_ReactNative
 
+## Assignment 5 Description
+
+Demo the use of redux-persist for the login/sign up module.
+
+Demo use of alerts in your app for confirmation of user action.
+
+
+## Implementation 
+We use redux persist to store the state of our object in local storage. 
+
+## Screenshots 
+This video shows the use of persist and alerts on the app.
+<img src="Lab5.mp4" height=400>
+Thsi screenshot shows that after refresh the nextstate is stored in the app.
+<img src="lab5_screenshot.JPG" height=400>
    
 ## Assignment 4 Description
 
