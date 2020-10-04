@@ -1,5 +1,21 @@
 # PervasiveComputing_ReactNative
 
+## Assignment 6  Description
+
+Demo and create an animation on the home page using any of the Animated API or Animatable API for image or card and handle the gestures on this animation using PanResponder. 
+
+The gesture is to be handled by doing an action like changing the states thorugh props or navigating to another window on the user gesture inside the panresponder create function.
+
+## Implementation 
+For this, we use a tinder like swipe idea using Animated API, PanResponder and Cards. 
+Code inspired by this [link](https://code.likeagirl.io/creating-tinder-like-swipe-component-with-react-native-3bf15e6be7e3)
+
+## Screenshots 
+This video shows the use of ANIMATED API  on the app.
+<img src="Lab6.gif" height=400>
+
+   
+
 ## Assignment 5 Description
 
 Demo the use of redux-persist for the login/sign up module.
