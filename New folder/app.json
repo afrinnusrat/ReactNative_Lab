@@ -18,10 +18,11 @@
     ],
     "ios": {
       "supportsTablet": true
-    
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/ishita-kumar/ReactNative_Lab"
   }
 }

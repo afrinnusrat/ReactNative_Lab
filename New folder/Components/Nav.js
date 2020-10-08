@@ -1,7 +1,7 @@
 import React from "react";
 import { StyleSheet, Text, View, Icon } from "react-native";
 import SignupModal from "./Login";
-import UserDetails from "./UserDetails";
+import UserDetails from "./SignUp";
 import Notifications from "./Notification";
 
 // export default function Navbar() {
