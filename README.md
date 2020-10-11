@@ -1,4 +1,16 @@
 # PervasiveComputing_ReactNative
+## Assignment 7  Description
+
+Task 1:  Image picker API on login page to pick an image from gallery or take a phone
+
+Task 2: Used Expo Notifications to send user a notification 
+
+Task 3: Built using expo API Expourl: https://expo.io/@ishkumar96/projects/labproject
+
+## Screenshots 
+
+The video of the above tasks are : 
+
 
 ## Assignment 6  Description
 
